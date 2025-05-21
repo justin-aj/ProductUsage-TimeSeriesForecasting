@@ -1,8 +1,3 @@
-Sure! Here's a well-formatted and professional `README.md` file based on your content:
-
----
-
-````markdown
 # 📈 ProductUsage-TimeSeriesForecasting
 
 This repository contains a Jupyter Notebook pipeline for time series forecasting of product usage data. The solution is designed to predict usage quantities over a future period by validating, preprocessing, visualizing, and modeling weekly usage records for multiple entities using various forecasting techniques.
